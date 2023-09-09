@@ -74,11 +74,13 @@ body {
 
 .frequency {
   font-size: 32px;
+  display:none;
 }
 
 .frequency span {
   font-size: 50%;
   margin-left: 0.25em;
+  display:none;
 }
 
 .meter {
